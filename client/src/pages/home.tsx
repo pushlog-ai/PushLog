@@ -737,8 +737,8 @@ export default function Home() {
                 </p>
               </CardContent>
             </Card>
-
-            {/* Incident Reports */}
+            
+            {/* Incident Reports
             <Card className="card-lift hover:shadow-xl hover:border-primary/20 transition-all duration-300 border-border bg-card opacity-0-init animate-landing-in animate-landing-in-delay-6">
               <CardContent className="p-8">
                 <div className="w-12 h-12 bg-amber-500/20 rounded-lg flex items-center justify-center mb-4">
@@ -749,7 +749,8 @@ export default function Home() {
                   Connect Sentry webhooks or run the pushlog-agent on any server you can SSH into—EC2, Vultr, DigitalOcean, bare metal, or any cloud VM—to stream runtime errors into PushLog with correlated commits and authors.
                 </p>
               </CardContent>
-            </Card>
+            </Card> */}
+
           </div>
         </div>
       </section>
